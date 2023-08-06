@@ -4,7 +4,7 @@
 </h1>
 <div id="header" align="center">
   
- ![image](https://github.com/anishkatoch/anishkatoch/blob/main/d36abf0c6c92978c2278764fa5c4e59a.jpg)
+ ![image](https://github.com/anishkatoch/anishkatoch/assets/130006013/78f6f517-db3e-4570-b7eb-82001cd09049)
  
   </div>
 
