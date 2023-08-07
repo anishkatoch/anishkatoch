@@ -57,13 +57,12 @@
 #### 2. West-bengal-state-election-commission-analysis
 #### 3. Zomato-recommendation-model
 #### 4. IMDB-movie
-#### 5. IPL_DATASET
-#### 6. Swiggy-remote-kitchen
-#### 7. ABC-call-volume-trend-analysis
-#### 8. Impact-of-car-features
-#### 9. Bank-loan-case-study
-#### 10. Hiring-process-analytics
-#### 11. Instagram-users
+#### 5. Swiggy-remote-kitchen
+#### 6. ABC-call-volume-trend-analysis
+#### 7. Impact-of-car-features
+#### 8. Bank-loan-case-study
+#### 9. Hiring-process-analytics
+#### 10. Instagram-users
 
 
 <br>
