@@ -53,16 +53,12 @@
 ## Projects:
 
 
-#### 1. Operation-and-metric-analytics
-#### 2. West-bengal-state-election-commission-analysis
-#### 3. Zomato-recommendation-model
-#### 4. IMDB-movie
+#### 1. Zomato-recommendation-model
+#### 2. Instagram-users
+#### 3. Bank-loan-case-study
+#### 4. Operation-and-metric-analytics
 #### 5. Swiggy-remote-kitchen
-#### 6. ABC-call-volume-trend-analysis
-#### 7. Impact-of-car-features
-#### 8. Bank-loan-case-study
-#### 9. Hiring-process-analytics
-#### 10. Instagram-users
+#### 6.  IMDB-movie
 
 
 <br>
