@@ -58,7 +58,6 @@
 #### 3. Bank-loan-case-study
 #### 4. Operation-and-metric-analytics
 #### 5. Swiggy-remote-kitchen
-#### 6.  IMDB-movie
 
 
 <br>
