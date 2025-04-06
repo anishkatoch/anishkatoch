@@ -12,7 +12,7 @@
 
 
 <h3  align = "center">
- <b>👋 Welcome to my vibrant GitHub profile! I'm an enthusiastic data analyst with a burning passion for extracting meaningful insights from complex data sets. If you're looking for a proactive, detail-oriented data enthusiast with an insatiable hunger for knowledge, you've come to the right place! Feel free to explore my projects and contributions as I embark on an exciting journey in the realm of data analytics. Together, let's make sense of data and unleash its potential! </b>
+ <b>👋 Hi there! I’m a Data Scientist by profession, but actually I do a lot more – working like an Artificial Intelligence Engineer also. I’m passionate about building smart products using latest tech like LLMs, RAG, agentic AI, time series analysis, and chatbots. I love product development and enjoy solving real-world problems using AI. I have hands-on experience with different cloud platforms, good knowledge of databases, and always ready to learn something new. Let’s build something amazing together! 🚀 </b>
 </h3>
 
 <br>
