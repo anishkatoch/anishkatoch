@@ -17,16 +17,19 @@
 
 <br>
 
-## 🔥 Featured Project
+## Featured Project
 
-### [ARIA](https://github.com/anishkatoch/ARIA-Agentic-chatbot): Agentic RAG Chatbot
-ARIA reads everything, finds the right answers, and tells you exactly which page and document it pulled from. Switch on Thinking Mode to watch it reason step by step, or flip to Advanced Mode for deeper answers that trace connections across your files. [Live demo](https://huggingface.co/spaces/anish0634/ARIA-Agentic-chatbot)
+### [ARIA: Agentic RAG Chatbot](https://github.com/anishkatoch/ARIA-Agentic-chatbot)
 
-Built alongside a wider agentic AI ecosystem:
+ARIA is a retrieval-augmented chatbot that answers questions from your documents and cites the exact page and source it used. It supports a Thinking Mode for step-by-step reasoning and an Advanced Mode for deeper analysis across connected files. [View live demo](https://huggingface.co/spaces/anish0634/ARIA-Agentic-chatbot)
 
-- 🔎 **[AI Search Engine for Websites](https://github.com/anishkatoch/AI_search_engine_for_website)**: natural-language product search with semantic retrieval, plus similar/related/trending picks
-- 🧠 **[Script Intelligence](https://github.com/anishkatoch/script_intelligence)**: LangGraph pipeline that analyzes screenplay PDFs for emotional arc, engagement, story summary, and improvement suggestions
-- 🎙️ **[Lumen Voice Agent](https://github.com/anishkatoch/Lumen_Voice_Agent)**: conversational voice agent for real-time speech interaction
+It is part of a broader agentic AI system built across several components:
+
+| Component | Description |
+|---|---|
+| [AI Search Engine for Websites](https://github.com/anishkatoch/AI_search_engine_for_website) | Natural-language product search using semantic retrieval, with related and trending recommendations |
+| [Script Intelligence](https://github.com/anishkatoch/script_intelligence) | LangGraph pipeline that analyzes screenplay PDFs for emotional arc, engagement, story summary, and improvement suggestions |
+| [Lumen Voice Agent](https://github.com/anishkatoch/Lumen_Voice_Agent) | Conversational voice agent for real-time speech interaction |
 
 <br>
 
@@ -48,13 +51,22 @@ Built alongside a wider agentic AI ecosystem:
 
 <br>
 
-## 📂 Projects
+## Projects
 
-#### 1. 🌟 [ARIA: Agentic RAG Chatbot](https://github.com/anishkatoch/ARIA-Agentic-chatbot)
-#### 2. [AI Search Engine for Websites](https://github.com/anishkatoch/AI_search_engine_for_website)
-#### 3. [Script Intelligence: Screenplay Analysis Pipeline](https://github.com/anishkatoch/script_intelligence)
-#### 4. [Lumen Voice Agent](https://github.com/anishkatoch/Lumen_Voice_Agent)
-#### 5. [Autonomous Bug Fixer Agent](https://github.com/anishkatoch/Autonomous_Bug_Fixer_Agent)
+#### [ARIA: Agentic RAG Chatbot](https://github.com/anishkatoch/ARIA-Agentic-chatbot)
+A retrieval-augmented chatbot that answers questions from a document set and cites the exact page and source for each answer. Includes a Thinking Mode for step-by-step reasoning and an Advanced Mode for deeper, cross-document analysis.
+
+#### [AI Search Engine for Websites](https://github.com/anishkatoch/AI_search_engine_for_website)
+A semantic search engine for online stores that matches products to user intent rather than exact keywords. Returns the most relevant results along with similar, related, and trending items from a built-in or custom product catalog.
+
+#### [Script Intelligence](https://github.com/anishkatoch/script_intelligence)
+An AI-powered screenplay analysis platform built on a LangGraph multi-node pipeline. Scenes are chunked and indexed in ChromaDB, then evaluated across emotional arc, engagement, story summary, and improvement suggestions using Claude Haiku and Sonnet.
+
+#### [Lumen Voice Agent](https://github.com/anishkatoch/Lumen_Voice_Agent)
+A conversational voice agent that handles real-time speech interaction end to end, from listening to responding. Built for natural, low-latency voice-driven conversations.
+
+#### [Autonomous Bug Fixer Agent](https://github.com/anishkatoch/Autonomous_Bug_Fixer_Agent)
+A system that automatically detects, analyzes, and fixes bugs in code. It runs the test suite, identifies failures, and generates corrected code using AI, reducing manual debugging effort.
 
 <br>
 
