@@ -3,7 +3,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Anish Katoch
 </h1>
 
-<h3 align="center">AI/ML Engineer: building agentic AI, LLM-powered search, and voice-driven products</h3>
+<p align="center">
+  <a href="https://github.com/anishkatoch">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Building+Agentic+AI+Systems;LLMs+%7C+RAG+%7C+Voice+Agents;Turning+Research+Into+Real+Products" alt="Typing SVG" />
+  </a>
+</p>
 
 <div id="header" align="center">
  <img src="https://github.com/anishkatoch/anishkatoch/assets/130006013/78f6f517-db3e-4570-b7eb-82001cd09049" width="100%"/>
@@ -51,6 +55,15 @@ It is part of a broader agentic AI system built across several components:
 
 <br>
 
+## Currently
+
+- 🔭 Working on multi-agent orchestration and voice-driven AI products
+- 🌱 Deepening expertise in LangGraph, fine-tuning, and retrieval evaluation
+- 🤝 Open to collaborating on agentic AI, RAG, and voice assistant projects
+- 💬 Ask me about LLMs, RAG pipelines, and AI product development
+
+<br>
+
 ## Projects
 
 #### [ARIA: Agentic RAG Chatbot](https://github.com/anishkatoch/ARIA-Agentic-chatbot)
@@ -91,4 +104,8 @@ A system that automatically detects, analyzes, and fixes bugs in code. It runs t
 <a href="mailto:anish.katoch@appinventiv.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" style="max-width: 100%;"></a>
 <a href="https://www.linkedin.com/in/anish-katoch-81701916b/" rel="nofollow"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" style="max-width: 100%;"></a>
 <a href="https://github.com/anishkatoch"><img src="https://img.icons8.com/windows/48/000000/github.png" style="max-width: 100%;"></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anishkatoch&style=flat&color=2E86C1&label=Profile+Views" alt="Profile views" />
 </p>
